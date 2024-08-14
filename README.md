@@ -3,8 +3,11 @@ This project focuses on developing a predictive system for smoke detection in in
 Technologies Used
 
 Python: For data preprocessing, model implementation, and visualization.
+
 SQL (Teradata): For data extraction and management.
+
 Machine Learning Libraries: Scikit-learn, LightGBM, and others for implementing predictive models.
+
 IoT Sensors: Data sourced from various sensors monitoring environmental conditions.
 
 Use Case
